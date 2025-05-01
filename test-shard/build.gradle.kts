@@ -14,7 +14,7 @@ dependencies {
     testImplementation(kotlin("test"))
 
     compileOnly(project(":api"))
-    compileOnly("net.minestom:minestom-snapshots:87f6524aeb")
+    compileOnly("net.minestom:minestom-snapshots:7320437640")
     compileOnly("com.google.auto.service:auto-service:1.1.1")
     ksp("dev.zacsweers.autoservice:auto-service-ksp:1.2.0")
 
