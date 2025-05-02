@@ -16,7 +16,7 @@ dependencies {
     compileOnly("net.minestom:minestom-snapshots:87f6524aeb") // MINESTOM
 
     compileOnly("org.apache.maven:maven-resolver-provider:3.9.9")
-    compileOnly("org.apache.maven.resolver:maven-resolver-impl:1.9.22")
+    compileOnly("org.apache.maven.resolver:maven-resolver-impl:2.0.8")
     compileOnly("org.apache.maven.resolver:maven-resolver-connector-basic:1.9.7")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-file:1.9.22")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-http:1.9.22")

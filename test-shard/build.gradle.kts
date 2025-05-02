@@ -18,7 +18,7 @@ dependencies {
     compileOnly("com.google.auto.service:auto-service:1.1.1")
     ksp("dev.zacsweers.autoservice:auto-service-ksp:1.2.0")
 
-    compileOnly("org.apache.maven.resolver:maven-resolver-impl:1.9.22")
+    compileOnly("org.apache.maven.resolver:maven-resolver-impl:2.0.8")
 }
 
 tasks.test {
