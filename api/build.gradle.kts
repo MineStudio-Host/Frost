@@ -28,7 +28,7 @@ dependencies {
     compileOnly("org.apache.maven.resolver:maven-resolver-connector-basic:1.9.22")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-file:1.9.22")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-http:1.9.23")
-    compileOnly("org.apache.maven.resolver:maven-resolver-transport-classpath:1.9.22")
+    compileOnly("org.apache.maven.resolver:maven-resolver-transport-classpath:2.0.9")
 
     api("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0") // JSON SERIALIZER
 }
