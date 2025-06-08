@@ -22,7 +22,7 @@ dependencies {
     implementation("ch.qos.logback:logback-classic:1.5.18")                  // Logback implementation
     implementation("ch.qos.logback:logback-core:1.5.18")                     // Logback core
 
-    implementation("net.minestom:minestom-snapshots:42e0d21266")             // MINESTOM
+    implementation("net.minestom:minestom-snapshots:982233141e")             // MINESTOM
 
     implementation("org.eclipse.collections:eclipse-collections:12.0.0.M3")  // ECLIPSE COLLECTIONS
     implementation("io.socket:socket.io-client:2.1.2")                       // SOCKET.IO

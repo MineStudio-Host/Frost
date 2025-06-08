@@ -21,7 +21,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
 
-    compileOnly("net.minestom:minestom-snapshots:87f6524aeb") // MINESTOM
+    compileOnly("net.minestom:minestom-snapshots:982233141e") // MINESTOM
 
     compileOnly("org.apache.maven:maven-resolver-provider:3.9.9")
     compileOnly("org.apache.maven.resolver:maven-resolver-impl:1.9.23")
