@@ -32,7 +32,7 @@ dependencies {
     implementation("org.apache.maven:maven-resolver-provider:3.9.10")
     implementation("org.apache.maven.resolver:maven-resolver-impl:1.9.23")
     implementation("org.apache.maven.resolver:maven-resolver-connector-basic:1.9.23")
-    implementation("org.apache.maven.resolver:maven-resolver-transport-file:1.9.23")
+    implementation("org.apache.maven.resolver:maven-resolver-transport-file:2.0.9")
     implementation("org.apache.maven.resolver:maven-resolver-transport-http:1.9.23")
     implementation("org.apache.maven.resolver:maven-resolver-transport-classpath:1.9.22")
 
