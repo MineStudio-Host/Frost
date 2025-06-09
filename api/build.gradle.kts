@@ -22,7 +22,7 @@ dependencies {
     testImplementation(kotlin("test"))
 
     // Internal dependencies
-    compileOnly("org.apache.maven:maven-resolver-provider:3.9.9")
+    compileOnly("org.apache.maven:maven-resolver-provider:3.9.10")
     compileOnly("org.apache.maven.resolver:maven-resolver-connector-basic:1.9.23")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-file:1.9.22")
     compileOnly("org.apache.maven.resolver:maven-resolver-transport-http:1.9.23")
