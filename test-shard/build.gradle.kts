@@ -20,7 +20,7 @@ dependencies {
     // So please, do NOT leave this like this. Go find the latest
     // version. Otherwise, there's about a 9/10 chance this entire
     // shard breaks. kthx
-    compileOnly("host.minestudio:frost-snapshots:39b860741c")
+    compileOnly("host.minestudio:frost-snapshots:811245f804")
     ksp("dev.zacsweers.autoservice:auto-service-ksp:1.2.0")
 }
 
