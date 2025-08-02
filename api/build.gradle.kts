@@ -6,7 +6,7 @@ import com.vanniktech.maven.publish.SonatypeHost
 plugins {
     kotlin("jvm")
     id("org.jetbrains.dokka") version "2.0.0"
-    id("com.vanniktech.maven.publish") version "0.32.0"
+    id("com.vanniktech.maven.publish") version "0.34.0"
     signing
     kotlin("plugin.serialization") version "1.9.25"
 }
