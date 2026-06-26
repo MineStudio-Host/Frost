@@ -2,7 +2,7 @@ import java.time.Duration
 
 plugins {
     kotlin("jvm") version "2.2.0"
-    id("com.gradleup.shadow") version "8.3.6"
+    id("com.gradleup.shadow") version "9.4.3"
     id("io.github.gradle-nexus.publish-plugin") version "2.0.0"
 }
 
